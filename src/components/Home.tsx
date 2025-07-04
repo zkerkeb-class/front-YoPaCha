@@ -14,6 +14,10 @@ const Home: React.FC = () => {
     navigate('/generator');
   };
 
+  const handleCustomGenreClick = () => {
+    navigate('/custom-genre');
+  };
+
   return (
     <div className="home">
       <header className="hero-section">
@@ -47,7 +51,7 @@ const Home: React.FC = () => {
           </p>
           <button 
             className="cta-button"
-            onClick={handleGenreClick}
+            onClick={handleCustomGenreClick}
           >
             Créer mon genre
           </button>
