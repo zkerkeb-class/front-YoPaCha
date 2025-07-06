@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Presentation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is an application that allows users to generate stories from different genres, including custom ones. It's planned that said users can create and connect to their accounts in order to subscribe to one of the available packages.
+
+# Links to the required services
+
+Service IA : https://github.com/zkerkeb-class/service-ia-YoPaCha
+BDD services : https://github.com/zkerkeb-class/bdd-services-YoPaCha
+Authentication service : https://github.com/zkerkeb-class/autenthication-service-YoPaCha
 
 ## Available Scripts
 
